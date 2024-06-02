@@ -19,4 +19,12 @@ Ok, this is a lot, but let's see how we get on.
 
 ### Generate some utility data
 
-To run the generate script
+Let's take a look at generate/generate.py before doing anything. Once we're happy, we'll open a terminal and run the script.
+You'll need to change to the /ds directory and run
+`$ python3 generate/generate.py`
+
+Lets run it a few more times.
+
+### Set up a django project
+
+We're going to use Django, which is a framework built on python. This will allow us to easily put our data in a database. Let's hop in to the backend directory and take a look at the readme there to get going.
