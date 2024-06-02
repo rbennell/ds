@@ -1,0 +1,3 @@
+# let's not actually save any buildings data to git!
+
+buildings_data/*.csv
