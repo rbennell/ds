@@ -1,4 +1,4 @@
 # let's not actually save any buildings data to git!
 
-buildings_data/*.csv
+backend/buildings_data/*.csv
 backend/data
